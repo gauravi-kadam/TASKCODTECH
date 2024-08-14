@@ -53,11 +53,13 @@ This description provides a comprehensive outline for building a personal portfo
 
 
 Output:
-![Upload![IMG-20240814-WA0029](https://github.com/user-attachments/assets/214504a9-54f1-414b-80b5-fbc00630f4fc)
-![IMG-20240814-WA0030](https://github.com/user-attachments/assets/19225f96-dfd6-4489-b3bb-2931382a31c0)
-![IMG-20240814-WA0035](https://github.com/user-attachments/assets/992a43f0-2098-4932-8447-5af2145a2248)
-![IMG-20240814-WA0031](https://github.com/user-attachments/assets/3a082ce1-8ba4-4f1f-8153-5b11db3fd36f)
-![IMG-20240814-WA0050](https://github.com/user-attachments/assets/095c4710-fc54-47ab-88ee-b97142c50ede)
+
+![Upload![IMG-20240814-WA0028](https://github.com/user-attachments/assets/09806782-5235-407e-bd96-fb1c636e58af)
 ![IMG-20240814-WA0051](https://github.com/user-attachments/assets/f3885fe1-a9a0-42ee-bb4b-2fbdb8f6ff77)
-![IMG-20240814-WA0028](https://github.com/user-attachments/assets/09806782-5235-407e-bd96-fb1c636e58af)
+![IMG-20240814-WA0050](https://github.com/user-attachments/assets/095c4710-fc54-47ab-88ee-b97142c50ede)
+![IMG-20240814-WA0031](https://github.com/user-attachments/assets/3a082ce1-8ba4-4f1f-8153-5b11db3fd36f)
+![IMG-20240814-WA0035](https://github.com/user-attachments/assets/992a43f0-2098-4932-8447-5af2145a2248)
+![IMG-20240814-WA0030](https://github.com/user-attachments/assets/19225f96-dfd6-4489-b3bb-2931382a31c0)
+![IMG-20240814-WA0029](https://github.com/user-attachments/assets/214504a9-54f1-414b-80b5-fbc00630f4fc)
+
 
