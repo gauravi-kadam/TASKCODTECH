@@ -1,4 +1,4 @@
-![IMG-20240814-WA0028](https://github.com/user-attachments/assets/176184a5-714e-4f8c-8b6e-8a1e3b62cecd)![WhatsApp Image 2024-08-14 at 09 18 22_f384c160](https://github.com/user-attachments/assets/4a241dd7-f1df-456b-b161-48aebe54f136)Name:GAURAVI KADAM
+Name:GAURAVI KADAM
 Company:CODTECH IT SOLUTIONS
 ID:CT08DS4935
 Domain:UI/UX DESIGN
